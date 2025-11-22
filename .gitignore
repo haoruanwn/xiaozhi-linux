@@ -10,3 +10,6 @@ dist/
 *.dll
 *.so
 *.dylib
+
+# rust
+target/
